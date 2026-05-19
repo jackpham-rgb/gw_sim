@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.a
+build/
+output/
+
+# Compiled binaries (no extension on Linux)
+gw_sim
+gw_visualize
+gw_3d
+test_nbody
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
