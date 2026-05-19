@@ -15,7 +15,7 @@ orbit. Three different ways to look at the result:
 |                   | between binary, hierarchical triple, and figure-8   |
 |                   | with the number keys; orbit camera with the mouse.  |
 
-The physics engine is shared and self-contained — no scientific
+The physics engine is shared and self-contained, no scientific
 libraries used. All formulas are documented inline in the source.
 
 ---
